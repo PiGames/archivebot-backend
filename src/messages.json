@@ -1,0 +1,727 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "user": "U6S0P5555",
+            "text": "<@U6S0P5555|nowa> has joined the channel",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1503148290.000090"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "```\naaa\n```",
+            "ts": "1503147977.000033"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "```",
+            "ts": "1503147972.000083"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "`aaa``",
+            "ts": "1503147970.000072"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "~aaa~",
+            "ts": "1503147902.000003"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "*aaa*",
+            "ts": "1503147899.000029"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "`aaa`",
+            "ts": "1503147895.000074"
+        },
+        {
+            "type": "message",
+            "subtype": "file_share",
+            "text": "<@U6BAXREG4|bibixx> uploaded a file: <https:\/\/bibixxtest.slack.com\/files\/bibixx\/F6R1X9BKP\/test.sass|Test>",
+            "file": {
+                "id": "F6R1X9BKP",
+                "created": 1503147662,
+                "timestamp": 1503147662,
+                "name": "Test.sass",
+                "title": "Test",
+                "mimetype": "text\/plain",
+                "filetype": "sass",
+                "pretty_type": "Sass",
+                "user": "U6BAXREG4",
+                "editable": true,
+                "size": 1487,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T6BAXRE9J-F6R1X9BKP\/test.sass",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6BAXRE9J-F6R1X9BKP\/download\/test.sass",
+                "permalink": "https:\/\/bibixxtest.slack.com\/files\/bibixx\/F6R1X9BKP\/test.sass",
+                "permalink_public": "https:\/\/slack-files.com\/T6BAXRE9J-F6R1X9BKP-baa5010078",
+                "edit_link": "https:\/\/bibixxtest.slack.com\/files\/bibixx\/F6R1X9BKP\/test.sass\/edit",
+                "preview": "\/\/ -----------------------------------------------------------------------------\r\n\/\/ This file contains all application-wide Sass variables.\r\n\/\/ -----------------------------------------------------------------------------\r\n\r\n\/\/\/ Regular font family\r",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-comment\">\/\/ -----------------------------------------------------------------------------<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-comment\">\/\/ This file contains all application-wide Sass variables.<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-comment\">\/\/ -----------------------------------------------------------------------------<\/span><\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-comment\">\/\/\/ Regular font family<\/span><\/pre><\/div>\n<\/div>\n<\/div>\n",
+                "lines": 51,
+                "lines_more": 46,
+                "preview_is_truncated": true,
+                "channels": [
+                    "C6BD48K4M"
+                ],
+                "groups": [],
+                "ims": [],
+                "comments_count": 0
+            },
+            "user": "U6BAXREG4",
+            "upload": true,
+            "display_as_bot": false,
+            "username": "bibixx",
+            "bot_id": null,
+            "ts": "1503147662.000068"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "<http:\/\/lingorado.com\/ipa\/>",
+            "attachments": [
+                {
+                    "title": "IPA Phonetic Transcription of English Text",
+                    "title_link": "http:\/\/lingorado.com\/ipa\/",
+                    "fallback": "IPA Phonetic Transcription of English Text",
+                    "image_url": "http:\/\/lingorado.com\/wp-content\/plugins\/transcription\/transcription.jpg",
+                    "from_url": "http:\/\/lingorado.com\/ipa\/",
+                    "image_width": 120,
+                    "image_height": 120,
+                    "image_bytes": 9846,
+                    "service_icon": "http:\/\/lingorado.com\/wp-content\/themes\/twentyeleven-modified\/favicon.ico",
+                    "service_name": "lingorado.com",
+                    "id": 1
+                }
+            ],
+            "ts": "1503146795.000009"
+        },
+        {
+            "type": "message",
+            "subtype": "file_share",
+            "text": "<@U6BAXREG4|bibixx> uploaded a file: <https:\/\/bibixxtest.slack.com\/files\/bibixx\/F6Q66D1F1\/-.boxnote|Untitled>",
+            "file": {
+                "id": "F6Q66D1F1",
+                "created": 1502841159,
+                "timestamp": 1502841159,
+                "name": "-.boxnote",
+                "title": "Untitled",
+                "mimetype": "text\/plain",
+                "filetype": "boxnote",
+                "pretty_type": "BoxNote",
+                "user": "U6BAXREG4",
+                "editable": true,
+                "size": 3,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T6BAXRE9J-F6Q66D1F1\/-.boxnote",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6BAXRE9J-F6Q66D1F1\/download\/-.boxnote",
+                "permalink": "https:\/\/bibixxtest.slack.com\/files\/bibixx\/F6Q66D1F1\/-.boxnote",
+                "permalink_public": "https:\/\/slack-files.com\/T6BAXRE9J-F6Q66D1F1-7282fa8aa2",
+                "edit_link": "https:\/\/bibixxtest.slack.com\/files\/bibixx\/F6Q66D1F1\/-.boxnote\/edit",
+                "preview": "hi!",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>hi!<\/pre><\/div>\n<\/div>\n<\/div>\n",
+                "lines": 1,
+                "lines_more": 0,
+                "preview_is_truncated": false,
+                "channels": [
+                    "C6BD48K4M"
+                ],
+                "groups": [],
+                "ims": [],
+                "comments_count": 0
+            },
+            "user": "U6BAXREG4",
+            "upload": true,
+            "display_as_bot": false,
+            "username": "bibixx",
+            "bot_id": null,
+            "ts": "1502841160.000051"
+        },
+        {
+            "type": "message",
+            "subtype": "file_share",
+            "text": "<@U6BAXREG4|bibixx> uploaded a file: <https:\/\/bibixxtest.slack.com\/files\/bibixx\/F6P3G26KC\/untitled-1.png|Untitled-1.png>",
+            "file": {
+                "id": "F6P3G26KC",
+                "created": 1502841150,
+                "timestamp": 1502841150,
+                "name": "Untitled-1.png",
+                "title": "Untitled-1.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U6BAXREG4",
+                "editable": false,
+                "size": 36803,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T6BAXRE9J-F6P3G26KC\/untitled-1.png",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6BAXRE9J-F6P3G26KC\/download\/untitled-1.png",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T6BAXRE9J-F6P3G26KC-b978cb608c\/untitled-1_64.png",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T6BAXRE9J-F6P3G26KC-b978cb608c\/untitled-1_80.png",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T6BAXRE9J-F6P3G26KC-b978cb608c\/untitled-1_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T6BAXRE9J-F6P3G26KC-b978cb608c\/untitled-1_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T6BAXRE9J-F6P3G26KC-b978cb608c\/untitled-1_160.png",
+                "image_exif_rotation": 1,
+                "original_w": 512,
+                "original_h": 512,
+                "permalink": "https:\/\/bibixxtest.slack.com\/files\/bibixx\/F6P3G26KC\/untitled-1.png",
+                "permalink_public": "https:\/\/slack-files.com\/T6BAXRE9J-F6P3G26KC-b994817113",
+                "channels": [
+                    "C6BD48K4M"
+                ],
+                "groups": [],
+                "ims": [],
+                "comments_count": 0
+            },
+            "user": "U6BAXREG4",
+            "upload": true,
+            "display_as_bot": false,
+            "username": "bibixx",
+            "bot_id": null,
+            "ts": "1502841151.000180"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "d",
+            "ts": "1502839426.000206"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "c",
+            "ts": "1502838945.000206"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "b",
+            "ts": "1502838945.000108"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "a",
+            "ts": "1502838944.000256"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "3",
+            "ts": "1502838595.000272"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "2",
+            "ts": "1502838595.000180"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "1",
+            "ts": "1502838595.000066"
+        },
+        {
+            "type": "message",
+            "user": "U6P1FPT8C",
+            "text": "<@U6BAXREG4>: <#C6BD48K4M> was archived.",
+            "bot_id": "B6NSXDERZ",
+            "ts": "1502837486.000019"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "<@U6P1FPT8C> archive now here",
+            "ts": "1502837485.000075"
+        },
+        {
+            "type": "message",
+            "user": "U6P1FPT8C",
+            "text": "<@U6BAXREG4>: <#C6BD48K4M> was archived.",
+            "bot_id": "B6NSXDERZ",
+            "ts": "1502837479.000062"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "<@U6P1FPT8C> archive now here",
+            "ts": "1502837478.000256"
+        },
+        {
+            "type": "message",
+            "user": "U6P1FPT8C",
+            "text": "<@U6BAXREG4>: <#C6BD48K4M> was archived.",
+            "bot_id": "B6NSXDERZ",
+            "ts": "1502837439.000186"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "<@U6P1FPT8C> archive now here",
+            "ts": "1502837438.000295"
+        },
+        {
+            "type": "message",
+            "user": "U6P1FPT8C",
+            "text": "<@U6BAXREG4>: <#C6BD48K4M> was archived.",
+            "bot_id": "B6NSXDERZ",
+            "ts": "1502837431.000041"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "<@U6P1FPT8C> archive now <#C6BD48K4M|general>",
+            "ts": "1502837430.000223"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "<@U6P1FPT8C> archive now here",
+            "ts": "1502837421.000002"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "<@U6P1FPT8C> archive now <@U6P1FPT8C>",
+            "ts": "1502837412.000059"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "<@U6P1FPT8C> archive here",
+            "ts": "1502833685.000045"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "<@U6P1FPT8C> archive here",
+            "ts": "1502833663.000201"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "<@U6P1FPT8C> archive here",
+            "ts": "1502832120.000165"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "<@U6P1FPT8C> archive here",
+            "ts": "1502832109.000472"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "archive here",
+            "ts": "1502832099.000081"
+        },
+        {
+            "type": "message",
+            "user": "U6P1FPT8C",
+            "text": "<@U6BAXREG4>: <#C6BD48K4M> was archived.",
+            "bot_id": "B6NSXDERZ",
+            "ts": "1502831651.000493"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "<@U6P1FPT8C> archive now <#C6BD48K4M|general>",
+            "ts": "1502831651.000225"
+        },
+        {
+            "type": "message",
+            "user": "U6P1FPT8C",
+            "text": "<@U6BAXREG4>: <#C6BD48K4M> was archived.",
+            "bot_id": "B6NSXDERZ",
+            "ts": "1502831593.000068"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "<@U6P1FPT8C> archive now <#C6BD48K4M|general>",
+            "ts": "1502831592.000130"
+        },
+        {
+            "user": "U6P1FPT8C",
+            "inviter": "U6BAXREG4",
+            "text": "<@U6P1FPT8C|archivebot> has joined the channel",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1502831587.000566"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "bbb",
+            "ts": "1502829995.000221"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "aaa",
+            "ts": "1502829739.000230"
+        },
+        {
+            "user": "U6KN4N85T",
+            "text": "<@U6KN4N85T|hithere> has joined the channel",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1502190614.970605"
+        },
+        {
+            "text": "",
+            "username": "Slack API Tester",
+            "bot_id": "B6J6NKRDJ",
+            "attachments": [
+                {
+                    "text": "Testing *right now!*",
+                    "pretext": "Pretext _supports_ mrkdwn",
+                    "title": "Title",
+                    "id": 1,
+                    "mrkdwn_in": [
+                        "text",
+                        "pretext"
+                    ],
+                    "fallback": "Title"
+                }
+            ],
+            "type": "message",
+            "subtype": "bot_message",
+            "ts": "1501838301.765735"
+        },
+        {
+            "text": "",
+            "username": "Slack API Tester",
+            "bot_id": "B6J6NKRDJ",
+            "attachments": [
+                {
+                    "text": "text-world",
+                    "pretext": "pre-hello",
+                    "id": 1,
+                    "fallback": "text-world"
+                }
+            ],
+            "type": "message",
+            "subtype": "bot_message",
+            "ts": "1501838279.758357"
+        },
+        {
+            "text": "*hi*\\nyall",
+            "username": "Slack API Tester",
+            "bot_id": "B6J6NKRDJ",
+            "attachments": [
+                {
+                    "text": "text-world",
+                    "pretext": "pre-hello",
+                    "id": 1,
+                    "fallback": "text-world"
+                }
+            ],
+            "type": "message",
+            "subtype": "bot_message",
+            "ts": "1501838269.755194"
+        },
+        {
+            "text": "*hi*\\nyall",
+            "username": "Slack API Tester",
+            "bot_id": "B6J6NKRDJ",
+            "type": "message",
+            "subtype": "bot_message",
+            "ts": "1501838256.750972"
+        },
+        {
+            "text": "*hi*\\nyall",
+            "username": "Slack API Tester",
+            "bot_id": "B6J6NKRDJ",
+            "type": "message",
+            "subtype": "bot_message",
+            "ts": "1501838249.748518"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "AS",
+            "bot_id": "B6J6NKRDJ",
+            "ts": "1501838149.714149"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "AS",
+            "bot_id": "B6J6NKRDJ",
+            "ts": "1501838147.713600"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "AS",
+            "bot_id": "B6J6NKRDJ",
+            "ts": "1501838143.712178"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "AS",
+            "bot_id": "B6J6NKRDJ",
+            "ts": "1501838137.710087"
+        },
+        {
+            "text": "AS",
+            "username": "blegiec",
+            "bot_id": "B6J6NKRDJ",
+            "type": "message",
+            "subtype": "bot_message",
+            "ts": "1501838129.707113"
+        },
+        {
+            "text": "AS",
+            "username": "blegiec",
+            "bot_id": "B6J6NKRDJ",
+            "type": "message",
+            "subtype": "bot_message",
+            "ts": "1501837199.383098"
+        },
+        {
+            "text": "AS",
+            "username": "hi!",
+            "bot_id": "B6J6NKRDJ",
+            "type": "message",
+            "subtype": "bot_message",
+            "ts": "1501837190.379574"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "AS",
+            "bot_id": "B6J6NKRDJ",
+            "ts": "1501837180.375871"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "AS",
+            "bot_id": "B6J6NKRDJ",
+            "ts": "1501837179.375562"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "AS",
+            "bot_id": "B6J6NKRDJ",
+            "ts": "1501837176.374430"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "AS",
+            "bot_id": "B6J6NKRDJ",
+            "ts": "1501837143.362769"
+        },
+        {
+            "text": "AS",
+            "username": "hi!",
+            "bot_id": "B6J6NKRDJ",
+            "type": "message",
+            "subtype": "bot_message",
+            "ts": "1501837127.357260"
+        },
+        {
+            "text": "AS",
+            "username": "Slack API Tester",
+            "bot_id": "B6J6NKRDJ",
+            "type": "message",
+            "subtype": "bot_message",
+            "ts": "1501837113.352006"
+        },
+        {
+            "type": "message",
+            "user": "U6BF03RCM",
+            "text": "I have a secret: C-TECH Astronomy",
+            "bot_id": "B6B8ZKULB",
+            "ts": "1501836270.054848"
+        },
+        {
+            "user": "U6BF03RCM",
+            "inviter": "U6BAXREG4",
+            "text": "<@U6BF03RCM|iterato> has joined the channel",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1500558047.414968"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "<@U6BF03RCM>",
+            "ts": "1500558043.413096"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "<@U6B8P7BRR> help",
+            "ts": "1500557513.125801"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "<@U6B8P7BRR>",
+            "ts": "1500557505.121605"
+        },
+        {
+            "type": "message",
+            "user": "U6B8P7BRR",
+            "text": "Hello Human!",
+            "bot_id": "B6AM05M24",
+            "ts": "1500557301.010592"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "<@U6B8P7BRR> hello",
+            "ts": "1500557299.009819"
+        },
+        {
+            "type": "message",
+            "user": "U6B8P7BRR",
+            "text": "As you add features and adapt me to be _your own bot_, you should update my help system <https:\/\/studio.botkit.ai|via the Botkit Studio dialog editor.>",
+            "bot_id": "B6AM05M24",
+            "ts": "1500557290.004854"
+        },
+        {
+            "type": "message",
+            "user": "U6B8P7BRR",
+            "text": "I'm here to help! Here are some of the commands that come standard with my starter kit.\n\nYou can say `help &lt;command&gt;` to get more details.",
+            "bot_id": "B6AM05M24",
+            "attachments": [
+                {
+                    "fallback": "Command 1",
+                    "text": "See how long this bot has been running",
+                    "title": "uptime",
+                    "id": 1,
+                    "color": "ff0000",
+                    "mrkdwn_in": [
+                        "text",
+                        "pretext",
+                        "fields"
+                    ]
+                },
+                {
+                    "text": "Who is this bot, anyways?",
+                    "title": "identify",
+                    "id": 2,
+                    "color": "ff8000",
+                    "mrkdwn_in": [
+                        "text",
+                        "pretext",
+                        "fields"
+                    ],
+                    "fallback": "identify"
+                },
+                {
+                    "text": "The bot will repeat after you",
+                    "title": "say &lt;something&gt;",
+                    "id": 3,
+                    "color": "ffff00",
+                    "mrkdwn_in": [
+                        "text",
+                        "pretext",
+                        "fields"
+                    ],
+                    "fallback": "say &lt;something&gt;"
+                },
+                {
+                    "text": "Customize me!",
+                    "title": "My Custom Command",
+                    "id": 4,
+                    "color": "80ff00",
+                    "mrkdwn_in": [
+                        "text",
+                        "pretext",
+                        "fields"
+                    ],
+                    "fallback": "My Custom Command"
+                },
+                {
+                    "text": "Customize Me!",
+                    "title": "My Custom Command",
+                    "id": 5,
+                    "color": "0080ff",
+                    "mrkdwn_in": [
+                        "text",
+                        "pretext",
+                        "fields"
+                    ],
+                    "fallback": "My Custom Command"
+                }
+            ],
+            "ts": "1500557289.004051"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "<@U6B8P7BRR> help",
+            "ts": "1500557287.003359"
+        },
+        {
+            "type": "message",
+            "user": "U6B8P7BRR",
+            "text": "I have arrived! I'm a friendly, helpful bot here to assist you.",
+            "bot_id": "B6AM05M24",
+            "ts": "1500557283.000970"
+        },
+        {
+            "user": "U6B8P7BRR",
+            "inviter": "U6BAXREG4",
+            "text": "<@U6B8P7BRR|iterato-x> has joined the channel",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1500557282.000628"
+        },
+        {
+            "type": "message",
+            "user": "U6BAXREG4",
+            "text": "<@U6B8P7BRR> hello",
+            "ts": "1500557278.998391"
+        },
+        {
+            "user": "U6BAXREG4",
+            "text": "<@U6BAXREG4|bibixx> has joined the channel",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1500548802.849741"
+        }
+    ],
+    "has_more": false
+}
