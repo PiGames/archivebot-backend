@@ -22,6 +22,6 @@ app.get( "/messages/:channel", ( req, res ) => {
   res.json( messages );
 } );
 
-app.listen( 9000, () => {
+app.listen( 80, () => {
   console.log( "Server running on port 9000" );
 } );
