@@ -1,13 +1,14 @@
 const express = require( "express" );
 const bodyParser = require( "body-parser" );
 const app = express();
+const router = express.Router();
 
 const port = process.env.PORT || 9000;
 
 app.use( bodyParser.urlencoded( { extended: false } ) );
 app.use( bodyParser.json() );
 
-app.get( "/messages/:channel", ( req, res ) => {
+router.get( "/messages/:channel", ( req, res ) => {
   const users = require( "./users.json" );
   const usersList = {};
   users.members.forEach( ( user ) => {
@@ -24,7 +25,9 @@ app.get( "/messages/:channel", ( req, res ) => {
   res.json( messages );
 } );
 
-console.log( process.env.MONGODB_URI );
+// "/api/messages/C6BD48K4M" – is only available!
+
+app.use( "/api/", router);
 
 app.listen( port, () => {
   console.log( `Server running on port ${ port }` );
