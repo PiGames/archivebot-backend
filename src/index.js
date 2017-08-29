@@ -2,6 +2,8 @@ const express = require( "express" );
 const bodyParser = require( "body-parser" );
 const app = express();
 
+const port = process.env.PORT || 9000;
+
 app.use( bodyParser.urlencoded( { extended: false } ) );
 app.use( bodyParser.json() );
 
@@ -22,6 +24,6 @@ app.get( "/messages/:channel", ( req, res ) => {
   res.json( messages );
 } );
 
-app.listen( 80, () => {
-  console.log( "Server running on port 9000" );
+app.listen( port, () => {
+  console.log( `Server running on port ${ port }` );
 } );
