@@ -1,4 +1,5 @@
 const express = require( "express" );
+const path = require( "path" );
 const bodyParser = require( "body-parser" );
 const app = express();
 const router = express.Router();
@@ -27,7 +28,8 @@ router.get( "/messages/:channel", ( req, res ) => {
 
 // "/api/messages/C6BD48K4M" – is only available!
 
-app.use( "/api/", router);
+// app.use( "/api/", router);
+app.use( "/", express.static( path.join( __dirname, '../static' ) ) );
 
 app.listen( port, () => {
   console.log( `Server running on port ${ port }` );
